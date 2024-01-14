@@ -6,3 +6,4 @@ duplicate_solve.sh
 duplicate_solve_game.sh
 fetch-game-blacklist.txt
 fetch-only-list.sh
+get-ipv4.sh
