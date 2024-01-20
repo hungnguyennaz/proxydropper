@@ -15,3 +15,4 @@ vpclive.v4
 vpcblacklist.txt
 ips.txt
 getipfromproxylist.sh
+vpcblacklist-out.txt
